@@ -24,7 +24,7 @@ An evaluation plan will be updated before **20 January** (AOE).
 - March 21, 2022: INTERSPEECH Paper submission deadline
 - March 28, 2022: INTERSPEECH Paper update deadline
 - June 13, 2022: INTERSPEECH Author notification
-- 
+- September 18-22, 2022: SASV challenge special session at INTERSPEECH
 
 ## Prize
 We are preparing prizes for the top ranking submissions as well as most novel systems (regardless of their performances)
