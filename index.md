@@ -4,7 +4,7 @@ title: Overview
 ---
 
 ## Overview
-ASV (automatic speaker verification) systems are intrinsically required to reject both **non-target** (e.g., voice uttered by different speaker) and **spoofed** (e.g., synthesised or vonverted) inputs. However, there is little consideration for how ASV systems themselves should be adapted when they are expected to encounter spoofing attacks, nor when they operate in tandem with CMs, much less how both systems should be jointly optimised. 
+ASV (automatic speaker verification) systems are intrinsically required to reject both **non-target** (e.g., voice uttered by different speaker) and **spoofed** (e.g., synthesised or converted) inputs. However, there is little consideration for how ASV systems themselves should be adapted when they are expected to encounter spoofing attacks, nor when they operate in tandem with CMs (spoofing countermeasures), much less how both systems should be jointly optimised. 
 
 The goal of the first SASV (spoofing-aware speaker verification) challenge, a **special sesscion in ISCA INTERSPEECH 2022**, is to promote development of integrated systems that can perform ASV and CM simultaneously.
 
