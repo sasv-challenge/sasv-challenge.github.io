@@ -9,6 +9,7 @@ ASV (automatic speaker verification) systems are intrinsically required to rejec
 The goal of the SASV (spoofing-aware speaker verification) challenge is to promote development of integrated systems that can perform ASV and CM simultaneously.
 
 [Registration](https://sasv-challenge.github.io/registration)
+
 [Submission](https://sasv-challenge.github.io/submission)
  
 
