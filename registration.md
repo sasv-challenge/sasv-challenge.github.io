@@ -4,5 +4,5 @@ title: Registration
 ---
 
 <p class="message">
-  regissss
+  Registration guidelines will be updated soon.
 </p>
