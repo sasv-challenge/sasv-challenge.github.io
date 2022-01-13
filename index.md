@@ -31,7 +31,10 @@ We are preparing prizes for the top ranking submissions as well as most novel sy
 Details will be added soon.
 
 ## Sponsor
-TBA
+<img src='{{ "/images/naverline-logo.png" | relative_url }}' width="400" />
+<img src='{{ "/images/clova-logo.png" | relative_url }}' width="200" />
+
+
 
 
 ## Organizing committee
