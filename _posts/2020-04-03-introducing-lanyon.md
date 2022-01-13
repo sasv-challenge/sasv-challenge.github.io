@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Overview
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+The SASV (spoofing-aware speaker verification) challenge aims to build a speaker verification system that can also reject spoofed inputs.
 
 ### Built on Poole
 
