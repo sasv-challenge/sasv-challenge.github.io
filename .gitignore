@@ -6,3 +6,5 @@
 vendor/
 _site/
 __*
+.DS_Store
+.about*
