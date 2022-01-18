@@ -8,7 +8,6 @@ ASV (automatic speaker verification) systems are intrinsically required to rejec
 
 The goal of the first SASV (spoofing-aware speaker verification) challenge, a **special sesscion in ISCA INTERSPEECH 2022**, is to promote development of integrated systems that can perform ASV and CM simultaneously.
 
-[Registration](https://sasv-challenge.github.io/registration)
 
 [Submission](https://sasv-challenge.github.io/submission)
  
@@ -16,6 +15,10 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 ## Evaluation plan
 An evaluation plan will be updated before **20 January** (AOE).
 
+## Registration
+Registration can be done by submitting below form.
+
+[Registration](hhttps://forms.gle/xLDPnrXHVvstVNPL9)
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
 - February 21, 2022: Release of evaluation data
