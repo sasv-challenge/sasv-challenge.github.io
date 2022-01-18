@@ -16,7 +16,7 @@ An evaluation plan will be updated before **20 January** (AOE).
 ## Registration
 Registration can be done by submitting below form.
 
-[Register](https://forms.gle/xLDPnrXHVvstVNPL9)
+[Register](https://forms.gle/htoVnog34kvs3as56)
 
 ## Submission
 <p class="message">
