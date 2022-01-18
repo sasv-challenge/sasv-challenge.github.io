@@ -18,7 +18,13 @@ An evaluation plan will be updated before **20 January** (AOE).
 ## Registration
 Registration can be done by submitting below form.
 
-[Registration](hhttps://forms.gle/xLDPnrXHVvstVNPL9)
+[Register](https://forms.gle/xLDPnrXHVvstVNPL9)
+
+## Submission
+<p class="message">
+  Submission guidelines will be updated soon.
+</p>
+
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
 - February 21, 2022: Release of evaluation data
