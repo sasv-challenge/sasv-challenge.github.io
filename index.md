@@ -11,7 +11,7 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 
 
 ## Evaluation plan
-- <object data="/pdfs/2022_SASV_evaluation_plan_v0.1.pdf" width="1000" height="1000" type='application/pdf'></object>
+- [v0.1](/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
 
 ## Registration
 Registration can be done by submitting below form.
