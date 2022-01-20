@@ -25,9 +25,8 @@ Registration can be done by submitting below form.
 
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
-- February 21, 2022: Release of evaluation data
-- February 28, 2022: Results submission
-- March 4, 2022: Release of participant scores
+- March 10, 2022: Result submission
+- March 14, 2022: Release of participant ranks
 - March 21, 2022: INTERSPEECH Paper submission deadline
 - March 28, 2022: INTERSPEECH Paper update deadline
 - June 13, 2022: INTERSPEECH Author notification
@@ -44,17 +43,25 @@ Details will be added soon.
 
 
 
-## Organizing committee
-- Jee-weon Jung (Naver Corporation)
-- Nicholas Evans (EURECOM)
-- Tomi Kinnunen (University of Eastern Finland)
-- Hemlata Tak (EURECOM)
-- Hong-Goo Kang (Yonsei University)
-- Hee-Soo Heo (Naver Corporation)
-- Hye-jin Shim (University of Seoul)
-- Ha-Jin Yu (University of Seoul)
-- Bong-Jin Lee (Naver Corporation)
-- Soo-Whan Chung (Naver Corporation)
+## Organising committee
+- **Jee-weon Jung** (Naver Corporation, South Korea)
+- **Hemlata Tak** (EURECOM, France)
+- **Hye-jin Shim** (University of Seoul, South Korea)
+- **Hee-Soo Heo** (Naver Corporation, South Korea)
+- **Bong-Jin Lee** (Naver Corporation, South Korea)
+- **Soo-Whan Chung** (Naver Corporation, South Korea)
+- **Hong-Goo Kang** (Yonsei University, South Korea)
+- **Ha-Jin Yu** (University of Seoul, South Korea)
+- **Nicholas Evans** (EURECOM, France)
+- **Tomi Kinnunen** (University of Eastern Finland, Finland)
+
+### Acknowledgment
+The organising committee have received comments and technical support from the below list of advisors.
+- Massimiliano Todisco (Eurecom, France)
+- Kong Aik Lee (A*STAR, Singapore)
+- Md Sahidullah (Inra, France)
+- Xuechen Liu (University of Eastern Finland, Finland)
+
 
 ## Contact
 Please send an e-mail to **sasv.challenge@gmail.com** if you have any questions.
