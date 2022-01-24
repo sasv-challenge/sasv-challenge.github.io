@@ -13,6 +13,12 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 ## Evaluation plan
 - [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
 
+## Baseline repository
+The [Baseline reposity](https://github.com/sasv-challenge/SASVC2022_Baseline) includes various packages for
+- downloading datasets;
+- calculating required metrics (i.e., three types of EERs);
+- reprocuding `Baseline2` described in the evaluation plan.
+
 ## Registration
 Registration can be done by submitting below form.
 
