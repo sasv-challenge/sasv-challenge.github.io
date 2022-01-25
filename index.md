@@ -62,12 +62,12 @@ Details will be added soon.
 - **Tomi Kinnunen** (University of Eastern Finland, Finland)
 
 ### Acknowledgment
-The organising committee have received comments and technical support from the below list of advisors.
-- Massimiliano Todisco (Eurecom, France)
+The organising committee have received comments and technical support from the below list of advisors. Names in alphabetical order.
+- Héctor Delgado (Nuance Communications, Spain)
 - Kong Aik Lee (A*STAR, Singapore)
+- Massimiliano Todisco (Eurecom, France)
 - Md Sahidullah (Inra, France)
 - Xuechen Liu (University of Eastern Finland, Finland)
-
 
 ## Contact
 Please send an e-mail to **sasv.challenge@gmail.com** if you have any questions.
