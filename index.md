@@ -66,7 +66,7 @@ The organising committee have received comments and technical support from the b
 - Héctor Delgado (Nuance Communications, Spain)
 - Kong Aik Lee (A*STAR, Singapore)
 - Massimiliano Todisco (Eurecom, France)
-- Md Sahidullah (Inra, France)
+- Md Sahidullah (Inria, France)
 - Xuechen Liu (University of Eastern Finland, Finland)
 
 ## Contact
