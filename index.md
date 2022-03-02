@@ -12,12 +12,13 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 
 ## Evaluation plan
 - [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
+- [v0.2]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf) (currently in progress)
 
 ## Baseline repository
-The [Baseline reposity](https://github.com/sasv-challenge/SASVC2022_Baseline) includes various packages for
+The [baseline repository](https://github.com/sasv-challenge/SASVC2022_Baseline) includes various packages for
 - downloading datasets;
 - calculating required metrics (i.e., three types of EERs);
-- reprocuding `Baseline2` described in the evaluation plan.
+- reproducing `Baseline2` described in the evaluation plan.
 
 ## Registration
 Registration can be done by submitting below form.
@@ -31,15 +32,15 @@ Registration can be done by submitting below form.
 
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
-- March 10, 2022: Result submission
-- March 14, 2022: Release of participant ranks
+- ~~March 10~~ <span style="color:red">March 14</span>, 2022: Result submission
+- ~~March 14~~ <span style="color:red">March 18</span>, 2022: Release of participant ranks
 - March 21, 2022: INTERSPEECH Paper submission deadline
 - March 28, 2022: INTERSPEECH Paper update deadline
 - June 13, 2022: INTERSPEECH Author notification
 - September 18-22, 2022: SASV challenge special session at INTERSPEECH
 
 ## Prize
-We are preparing prizes for the top ranking submissions as well as most novel systems (regardless of their performances)
+We have prepared prizes for the top ranking submissions as well as most novel systems (regardless of their performances)
 Details will be added soon.
 
 ## Sponsor
