@@ -39,11 +39,13 @@ Submissions should be made by sending an e-mail to **sasv.challenge@gmail.com** 
 
 ## Awards
 Awards will be presented to participants/teams whose systems achieve the best performance.  Additional awards will be presented to participants/teams who report the most innovative methods as judged by the organisers.
+
 ### Performance awards
 Top three ranking teams will be awarded as follows:
 - Winner: 1,500 USD
 - First runner-up: 1,000 USD
 - Second runner-up: 500 USD
+
 ### Innovative awards
 The two participants/teams with the most innovative methods will be awarded $1,000 each.
 
