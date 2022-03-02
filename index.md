@@ -12,7 +12,7 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 
 ## Evaluation plan
 - [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
-- [v0.2]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf) (currently in progress)
+- [v0.2]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.2.pdf)
 
 ## Baseline repository
 The [baseline repository](https://github.com/sasv-challenge/SASVC2022_Baseline) includes various packages for
@@ -26,9 +26,7 @@ Registration can be done by submitting below form.
 [Register](https://forms.gle/htoVnog34kvs3as56)
 
 ## Submission
-<p class="message">
-  Submission guidelines will be updated soon.
-</p>
+Submissions should be made by sending an e-mail to **sasv.challenge@gmail.com** with an attachment containing a system description and score files for both development and the evaluation protocols. Precise submission instructions are included in the evaluation plan.
 
 ## Planned schedule
 - January 20, 2022: Release of evaluation plan
@@ -39,9 +37,15 @@ Registration can be done by submitting below form.
 - June 13, 2022: INTERSPEECH Author notification
 - September 18-22, 2022: SASV challenge special session at INTERSPEECH
 
-## Prize
-We have prepared prizes for the top ranking submissions as well as most novel systems (regardless of their performances)
-Details will be added soon.
+## Awards
+Awards will be presented to participants/teams whose systems achieve the best performance.  Additional awards will be presented to participants/teams who report the most innovative methods as judged by the organisers.
+### Performance awards
+Top three ranking teams will be awarded as follows:
+- Winner: 1,500 USD
+- First runner-up: 1,000 USD
+- Second runner-up: 500 USD
+### Innovative awards
+The two participants/teams with the most innovative methods will be awarded $1,000 each.
 
 ## Sponsor
 <img src='{{ "/images/naverline-logo.png" | relative_url }}' width="400" />
