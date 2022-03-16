@@ -10,7 +10,7 @@ The goal of the first SASV (spoofing-aware speaker verification) challenge, a **
 
 
 ## Challenge results (under development)
-The challenge is now ended. Results can be found at [challenge result]({{ site.url }}/challenge_results.md) page.
+The challenge is now ended. Results can be found at [challenge result]({{ site.url }}/challenge_results) page.
 
 ## Evaluation plan
 - [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
