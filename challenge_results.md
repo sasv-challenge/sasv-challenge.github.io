@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: SASV2022 Challenge results
 ---
 
