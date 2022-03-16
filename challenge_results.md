@@ -21,4 +21,3 @@ Below are system descriptions from each team sorted in alphabetical order.
 <div markdown="1">
 - [Team A]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
 
-</details>
