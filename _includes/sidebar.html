@@ -16,16 +16,18 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    assign pages_list = site.pages | sort:"url"
-    for node in pages_list
-      if node.title != null
-        if node.layout == "page"
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        endif
-      endif
-    endfor
+        {% endif %}
+      {% endif %}
+    {% endfor %}
 
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a> -->
+    <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
   </nav>
 
   <div class="sidebar-item">
