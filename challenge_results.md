@@ -20,4 +20,8 @@ Below are system descriptions from each team sorted in alphabetical order.
 <details><summary>Links of descriptions</summary>
 <div markdown="1">
 - [Team A]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
+</div>
+</details>
 
+
+### Relationship of SASV-EER with SV-EER and SPF-EER
