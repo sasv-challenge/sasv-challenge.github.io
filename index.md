@@ -3,14 +3,18 @@ layout: default
 title: Overview
 ---
 
+## Challenge results
+The challenge is now ended. Results can be found at [challenge result]({{ site.url }}/challenge_results) page.
+
+## Relevant papers
+Papers relevant to the SASV 2022 Challenge can be found at [SASV2022 Related Publications]({{ site.url }}/papers_SASV2022) page.
+
+
 ## Overview
 ASV (automatic speaker verification) systems are intrinsically required to reject both **non-target** (e.g., voice uttered by different speaker) and **spoofed** (e.g., synthesised or converted) inputs. However, there is little consideration for how ASV systems themselves should be adapted when they are expected to encounter spoofing attacks, nor when they operate in tandem with CMs (spoofing countermeasures), much less how both systems should be jointly optimised. 
 
 The goal of the first SASV (spoofing-aware speaker verification) challenge, a **special sesscion in ISCA INTERSPEECH 2022**, is to promote development of integrated systems that can perform ASV and CM simultaneously.
 
-
-## Challenge results
-The challenge is now ended. Results can be found at [challenge result]({{ site.url }}/challenge_results) page.
 
 ## Evaluation plan
 - [v0.1]({{ site.url }}/pdfs/2022_SASV_evaluation_plan_v0.1.pdf)
