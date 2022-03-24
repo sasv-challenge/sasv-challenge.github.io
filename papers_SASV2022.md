@@ -58,3 +58,19 @@ Please send an e-mail to add your paper to this list.
 </div>
 </div>
 </details>
+
+<details><summary>Spoofing-Aware Speaker Verification with Unsupervised Domain Adaptation</summary>
+<div markdown="1">
+- <div style="font-size:80%">Xuechen Liu<sup>1,2</sup>, Md Sahidullah<sup>2</sup>, Tomi Kinnunen<sup>1</sup></div>
+- <div style="font-size:80%"><sup>1</sup>School of Computing, University of Eastern Finland, Joensuu, Finland <sup>2</sup>Université de Lorraine, CNRS, Inria, LORIA, F-54000, Nancy, France</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{liu2022spoofing,
+  author={Liu, Xuechen and Sahidullah, Md and Kinnunen, Tomi},
+  title={Spoofing-Aware Speaker Verification with Unsupervised Domain Adaptation},
+  year=2022,
+  booktitle={Proc. Speaker Odyssey (submitted)},
+  }
+</pre>
+</div>
+</div>
+</details>
