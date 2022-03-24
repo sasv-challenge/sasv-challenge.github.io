@@ -29,7 +29,7 @@ Please send an e-mail to add your paper to this list.
 
 <details><summary>A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification</summary>
 <div markdown="1">
-- <div style="font-size:80%">Zhang, You and Zhu, Ge and Duan, Zhiyao</div>
+- <div style="font-size:80%">You Zhang, Ge Zhu, and Zhiyao Duan</div>
 - <div style="font-size:80%">University of Rochester, USA</div>
 <div aria-hidden="true" aria-labelledby="bibtex-zhang2022prob" class="modal fade" id="bibtex-zhang2022prob" role="dialog" tabindex="-1" style="font-size:70%">
 <pre>@article{zhang2022prob,
@@ -38,6 +38,22 @@ Please send an e-mail to add your paper to this list.
   year={2022},
   journal={arXiv preprint arXiv:2202.05253}
 }
+</pre>
+</div>
+</div>
+</details>
+
+<details><summary>Norm-constrained Score-level Ensemble for Spoofing Aware Speaker Verification</summary>
+<div markdown="1">
+- <div style="font-size:80%">Peng Zhang, Peng Hu, Xueliang Zhang</div>
+- <div style="font-size:80%">Elevoc Technology Co., Ltd, Shenzhen, China</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{Zhang2022Norm,
+  author={Zhang, Peng and Hu, Peng and Zhang, Xueliang},
+  title={Norm-constrained Score-level Ensemble for Spoofing Aware Speaker Verification},
+  year=2022,
+  booktitle={Proc. Interspeech (submitted},
+  }
 </pre>
 </div>
 </div>
