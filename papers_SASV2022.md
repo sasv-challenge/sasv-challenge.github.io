@@ -17,10 +17,10 @@ Please send an e-mail to add your paper to this list.
 - <div style="font-size:80%"><sup>1</sup>Naver Corporation, South Korea, <sup>2</sup>EURECOM, Sophia Antipolis, France, <sup>3</sup>School of Computer Science, University of Seoul, South Korea, <sup>4</sup>University of Eastern Finland, Finland</div>
 <div aria-hidden="true" aria-labelledby="bibtex-Jung2022SASV" class="modal fade" id="bibtex-Jung2022SASV" role="dialog" tabindex="-1" style="font-size:70%">
 <pre>@inproceedings{Jung2022SASV,
-    author = "Jung, Jee-weon and Tak, Hemlata and Shim, Hye-jin and Heo, Hee-Soo and Lee, Bong-Jin and Chung, Soo-Whan and Yu, Ha-Jin and Evans, Nicholas and Kinnunen, Tomi",
-    title = "SASV 2022: The First Spoofing-Aware Speaker Verification Challenge",
-    booktitle = "Proc. Interspeech (submitted)",
-    year = "2022",
+    author = {Jung, Jee-weon and Tak, Hemlata and Shim, Hye-jin and Heo, Hee-Soo and Lee, Bong-Jin and Chung, Soo-Whan and Yu, Ha-Jin and Evans, Nicholas and Kinnunen, Tomi},
+    title = {SASV 2022: The First Spoofing-Aware Speaker Verification Challenge},
+    booktitle = {Proc. Interspeech (submitted)},
+    year = {2022},
 }
 </pre>
 </div>
@@ -52,7 +52,7 @@ Please send an e-mail to add your paper to this list.
   author={Zhang, Peng and Hu, Peng and Zhang, Xueliang},
   title={Norm-constrained Score-level Ensemble for Spoofing Aware Speaker Verification},
   year=2022,
-  booktitle={Proc. Interspeech (submitted},
+  booktitle={Proc. Interspeech (submitted)},
   }
 </pre>
 </div>
