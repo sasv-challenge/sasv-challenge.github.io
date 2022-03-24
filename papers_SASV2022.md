@@ -26,3 +26,19 @@ Please send an e-mail to add your paper to this list.
 </div>
 </div>
 </details>
+
+<details><summary>A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification</summary>
+<div markdown="1">
+- <div style="font-size:80%">Zhang, You and Zhu, Ge and Duan, Zhiyao</div>
+- <div style="font-size:80%">University of Rochester, USA</div>
+<div aria-hidden="true" aria-labelledby="bibtex-zhang2022prob" class="modal fade" id="bibtex-zhang2022prob" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@article{zhang2022prob,
+  author={Zhang, You and Zhu, Ge and Duan, Zhiyao},
+  title={A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification},
+  year={2022},
+  journal={arXiv preprint arXiv:2202.05253}
+}
+</pre>
+</div>
+</div>
+</details>
