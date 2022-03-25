@@ -26,6 +26,21 @@ Please send an e-mail to add your paper to this list.
 </div>
 </div>
 </details>
+<details><summary>Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion</summary>
+<div markdown="1">
+- <div style="font-size:80%">Hye-jin Shim<sup>1,*</sup>, Hemlata Tak<sup>2,*</sup> Xuechen Liu<sup>3,8</sup>, Hee-Soo Heo<sup>4</sup>, Jee-weon Jung<sup>4</sup>, Joon Son Chung<sup>5</sup>, Soo-Whan Chung<sup>4</sup>, Ha-Jin Yu<sup>1</sup>, Bong-Jin Lee<sup>4</sup>, Massimiliano Todisco<sup>2</sup>, Héctor Delgado<sup>6</sup>, Kong Aik Leeg<sup>7</sup>, Md Sahidullah<sup>8</sup>, Tomi Kinnunen<sup>3</sup>, Nicholas Evans<sup>2</sup></div>
+- <div style="font-size:80%"><sup>1</sup>School of Computer Science, University of Seoul, South Korea, <sup>2</sup>EURECOM, Sophia Antipolis, France, <sup>3</sup>University of Eastern Finland, Finland, <sup>4</sup>Naver Corporation, South Korea, <sup>5</sup>KAIST, South Korea, <sup>6</sup>Nuance Communications, Spain, <sup>7</sup>A<sup>*</sup>STAR, Singapore, <sup>8</sup>Inria, France</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{shim2022baseline,
+  author={Shim, Hye-jin and Tak, Hemlata and Liu, Xuechen and Heo, Hee-Soo and Jung, Jee-weon and Chung, Joon Son and Chung, Soo-Whan and Yu, Ha-Jin and Lee, Bong-Jin and Todisco, Massimiliano and Delgado, Héctor and Lee, Kong Aik and Sahidullah, Md and Kinnunen, Tomi and Evans, Nicholas},
+  title={Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion},
+  year=2022,
+  booktitle={Proc. Speaker Odyssey Workshop (submitted)},
+} 
+</pre>
+</div>
+</div>
+</details>
 
 <details><summary>A Probabilistic Fusion Framework for Spoofing Aware Speaker Verification</summary>
 <div markdown="1">
