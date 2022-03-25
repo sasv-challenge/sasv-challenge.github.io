@@ -96,11 +96,27 @@ Please send an e-mail to add your paper to this list.
 - <div style="font-size:80%">Alexander Alenin, Nikita Torgashov, Anton Okhotnikov, Rostislav Makarov and Ivan Yakovlev</div>
 - <div style="font-size:80%">ID R&D Inc.</div>
 <div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
-<pre>@inproceedings{abc,
+<pre>@inproceedings{Alenin2022A,
   author={Alenin, Alexander and Torgashov, Nikita and Okhotnikov, Anton and Makarov, Rostislav and Yakovlev, Ivan},
   title={A Subnetwork Approach for Spoofing Aware Speaker Verification},
   year=2022,
   booktitle={Proc. Interspeech (submitted)}
+}
+</pre>
+</div>
+</div>
+</details>
+
+<details><summary>End-to-end framework for spoof-aware speaker verification</summary>
+<div markdown="1">
+- <div style="font-size:80%">Woo Hyun Kang, Jahangir Alam, Abderrahim Fathan</div>
+- <div style="font-size:80%">Computer Research Institute of Montreal (CRIM), Montreal (Quebec), Canada</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{kang22sasv,
+ author={Woo Hyun Kang, Jahangir Alam, Abderrahim Fathan},
+ title={End-to-end framework for spoof-aware speaker verification},
+ year=2022,
+ booktitle={Proc. Interspeech (submitted},
 }
 </pre>
 </div>
