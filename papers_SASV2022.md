@@ -122,3 +122,19 @@ Please send an e-mail to add your paper to this list.
 </div>
 </div>
 </details>
+
+<details><summary>Backend Ensemble for Speaker Verification and Spoofing Countermeasure</summary>
+<div markdown="1">
+- <div style="font-size:80%">Li Zhang, Yue Li, Huan Zhao, Lei Xie</div>
+- <div style="font-size:80%">Audio, Speech and Language Processing Group (ASLP@NPU), School of Computer Science, Northwestern Polytechnical University (NPU), Xi'an, China</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{li2022backend,
+  author={   Li Zhang, Yue Li, Huan Zhao, Lei Xie  },
+  title={ Backend Ensemble for Speaker Verification and Spoofing Countermeasure  },
+  year=2022,
+  booktitle={Proc. Interspeech (submitted},
+  }
+</pre>
+</div>
+</div>
+</details>
