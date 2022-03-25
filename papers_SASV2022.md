@@ -74,3 +74,35 @@ Please send an e-mail to add your paper to this list.
 </div>
 </div>
 </details>
+
+<details><summary>SA-SASV: An End-to-End Spoof-Aggregated Spoofing-Aware Speaker Verification System</summary>
+<div markdown="1">
+- <div style="font-size:80%">Zhongwei Teng<sup>1</sup>, Quchen Fu<sup>1</sup>, Jules White<sup>1</sup>, Maria E Powell<sup>2</sup>, and, Douglas C Schmidt<sup>1</sup></div>
+- <div style="font-size:80%"><sup>1</sup>Dept. of Computer Science, Vanderbilt University <sup>2</sup>Dept. of Otolaryngology--Head and Neck Surgery, Vanderbilt University Medical Center</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@article{teng2022sa,
+ title={SA-SASV: An End-to-End Spoof-Aggregated Spoofing-Aware Speaker Verification System},
+ author={Teng, Zhongwei and Fu, Quchen and White, Jules and Powell, Maria E and Schmidt, Douglas C},
+ journal={arXiv preprint arXiv:2203.06517},
+ year={2022}
+}
+</pre>
+</div>
+</div>
+</details>
+
+<details><summary>A Subnetwork Approach for Spoofing Aware Speaker Verification</summary>
+<div markdown="1">
+- <div style="font-size:80%">Alexander Alenin, Nikita Torgashov, Anton Okhotnikov, Rostislav Makarov and Ivan Yakovlev</div>
+- <div style="font-size:80%">ID R&D Inc.</div>
+<div aria-hidden="true" aria-labelledby="bibtex-Zhang2022Norm" class="modal fade" id="bibtex-Zhang2022Norm" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@inproceedings{abc,
+  author={Alenin, Alexander and Torgashov, Nikita and Okhotnikov, Anton and Makarov, Rostislav and Yakovlev, Ivan},
+  title={A Subnetwork Approach for Spoofing Aware Speaker Verification},
+  year=2022,
+  booktitle={Proc. Interspeech (submitted)}
+}
+</pre>
+</div>
+</div>
+</details>
