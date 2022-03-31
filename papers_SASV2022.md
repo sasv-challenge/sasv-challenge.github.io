@@ -174,15 +174,13 @@ Guangdong OPPO Mobile Telecommunications Corp., Ltd., Guangzhou, China</div>
 
 <details><summary>HYU Submission for the SASV Challenge 2022: Reforming Speaker Embeddings with Spoofing-Aware Conditioning</summary>
 <div markdown="1">
-- <div style="font-size:80%">Jeong-Hwan Choi, Joon-Young Yang, Ye Rin Jeoung, and Joon-Hyuk Chang
-</div>
-- <div style="font-size:80%">Hanyang University, South Korea
-</div>
+- <div style="font-size:80%">Jeong-Hwan Choi, Joon-Young Yang, Ye Rin Jeoung, and Joon-Hyuk Chang</div>
+- <div style="font-size:80%">Hanyang University, South Korea</div>
 <div aria-hidden="true" aria-labelledby="bibtex-choi2022hyu" class="modal fade" id="bibtex-choi2022hyu" role="dialog" tabindex="-1" style="font-size:70%">
 <pre>@inproceedings{hyu_sasv_2022,
-title={{HYU} submission for the {SASV} challenge 2022: Reforming speaker embeddings with spoofing-aware conditioning},
+title={HYU submission for the SASV challenge 2022: Reforming speaker embeddings with spoofing-aware conditioning},
 author={Choi, Jeong-Hwan and Yang, Joon-Young and Jeoung, Yerin and Chang, Joon-Hyuk},
-booktitle={Proc. {INTERSPEECH} (submitted)},
+booktitle={Proc. INTERSPEECH (submitted)},
 year={2022}
 }
 </pre>
