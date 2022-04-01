@@ -203,3 +203,19 @@ year={2022}
 </div>
 </div>
 </details>
+
+<details><summary>Spoofing-Aware Speaker Verification by Multi-Level Fusion</summary>
+<div markdown="1">
+- <div style="font-size:80%">Haibin Wu<sup>1,2</sup>, Lingwei Meng<sup>3</sup>, Jiawen Kang<sup>3</sup>, Jinchao Li<sup>3</sup>, Xu Li<sup>3</sup>, Xixin Wu<sup>3</sup>, Hung-yi Lee<sup>1</sup>, Helen Meng<sup>2,3</sup></div>
+- <div style="font-size:80%"><sup>1</sup>Graduate Institute of Communication Engineering, National Taiwan University <sup>2</sup> Centre for Perceptual and Interactive Intelligence, The Chinese University of Hong Kong <sup>3</sup> Human-Computer Communications Laboratory, The Chinese University of Hong Kong</div>
+<div aria-hidden="true" aria-labelledby="bibtex-wu2022spoofing" class="modal fade" id="bibtex-wu2022spoofing" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@article{wu2022spoofing,
+  author={Wu, Haibin and Meng, Lingwei and Kang, Jiawen and Li, Jinchao and Li, Xu and Wu, Xixin and Lee, Hung-yi and Meng, Helen},
+  title={Spoofing-Aware Speaker Verification by Multi-Level Fusion},
+  year={2022},
+  journal={arXiv preprint arXiv:2203.15377}
+}
+</pre>
+</div>
+</div>
+</details>
