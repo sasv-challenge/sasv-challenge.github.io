@@ -187,3 +187,19 @@ year={2022}
 </div>
 </div>
 </details>
+
+<details><summary>A Comparative Study of Fusion Methods for SASV Challenge 2022</summary>
+<div markdown="1">
+- <div style="font-size:80%">Petr Grinberg, Vladislav Shikhov</div>
+- <div style="font-size:80%">Samsung R&D Institute Russia</div>
+<div aria-hidden="true" aria-labelledby="bibtex-grinberg2022a" class="modal fade" id="bibtex-grinberg2022a" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@article{grinberg2022a,
+  author={Grinberg, Petr and Shikhov, Vladislav},
+  title={A Comparative Study of Fusion Methods for SASV Challenge 2022},
+  year={2022},
+  journal={arXiv preprint arXiv:2203.16970}
+}
+</pre>
+</div>
+</div>
+</details>
