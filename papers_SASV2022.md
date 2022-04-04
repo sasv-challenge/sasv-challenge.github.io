@@ -1,4 +1,4 @@
----
+****---
 layout: page
 title: SASV2022 Related Publications
 ---
@@ -193,11 +193,11 @@ year={2022}
 - <div style="font-size:80%">Petr Grinberg, Vladislav Shikhov</div>
 - <div style="font-size:80%">Samsung R&D Institute Russia</div>
 <div aria-hidden="true" aria-labelledby="bibtex-grinberg2022a" class="modal fade" id="bibtex-grinberg2022a" role="dialog" tabindex="-1" style="font-size:70%">
-<pre>@article{grinberg2022a,
-  author={Grinberg, Petr and Shikhov, Vladislav},
-  title={A Comparative Study of Fusion Methods for SASV Challenge 2022},
+<pre>@inproceedings{grinberg2022comparative,
+  title={{A Comparative Study of Fusion Methods for SASV Challenge 2022}},
+  author={Petr Grinberg and Vladislav Shikhov},
   year={2022},
-  journal={arXiv preprint arXiv:2203.16970}
+  booktitle={Proc. Interspeech (submitted)},
 }
 </pre>
 </div>
