@@ -219,3 +219,19 @@ year={2022}
 </div>
 </div>
 </details>
+
+<details><summary>The Vicomtech Spoofing-Aware Biometric System for the SASV Challenge</summary>
+<div markdown="1">
+- <div style="font-size:80%">Juan M. Martín-Doñas, Iván G. Torre, Aitor Álvarez, Joaquin Arellano</div>
+- <div style="font-size:80%">Vicomtech Foundation, Basque Research and Technology Alliance (BRTA), Mikeletegi 57, 20009 Donostia - San Sebastián (Spain) </div>
+<div aria-hidden="true" aria-labelledby="bibtex-martin2022sasv" class="modal fade" id="bibtex-martin2022sasv" role="dialog" tabindex="-1" style="font-size:70%">
+<pre>@article{martin2022sasv,
+  author={Martín-Doñas, Juan M. and Torre, Iván G. and Álvarez, Aitor and Arellano, Joaquin},
+  title={The Vicomtech Spoofing-Aware Biometric System for the SASV Challenge},
+  year={2022},
+  journal={arXiv preprint arXiv:2204.01399}
+}
+</pre>
+</div>
+</div>
+</details>
